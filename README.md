@@ -1,2 +1,3 @@
-# os-hello-world
-hello world os project for beginners
+## Welcome 👋
+    You can start Operating System development with this repo!
+    Don't forget leave a star 🌠
